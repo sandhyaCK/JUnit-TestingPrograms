@@ -4,7 +4,7 @@
         # @author :Sandhya
    #***************************************************************************************************************/
 
-package jUnitTesting;
+package com.Bridgelabz.jUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
